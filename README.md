@@ -1,0 +1,2 @@
+# startgit
+first git repository
