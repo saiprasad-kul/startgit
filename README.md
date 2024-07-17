@@ -1,2 +1,3 @@
 # startgit
-first git repository
+first git repository.
+Author-sai
